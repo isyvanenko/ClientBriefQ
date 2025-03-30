@@ -1,3 +1,2 @@
-2025/03/21-23:53:18.978 119c8 Reusing MANIFEST E:/Course/Industry Brief/MyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2025/03/21-23:53:18.978 119c8 Recovering log #3
-2025/03/21-23:53:18.979 119c8 Reusing old log E:/Course/Industry Brief/MyProject/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2025/03/30-18:45:26.890 5098 Creating DB C:/Users/szymo/OneDrive/Documents/GitHub/ClientBriefQ/MyProject/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2025/03/30-18:45:26.906 5098 Reusing MANIFEST C:/Users/szymo/OneDrive/Documents/GitHub/ClientBriefQ/MyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
