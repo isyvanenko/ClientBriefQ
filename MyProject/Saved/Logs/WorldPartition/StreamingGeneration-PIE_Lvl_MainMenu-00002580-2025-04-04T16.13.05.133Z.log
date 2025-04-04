@@ -1,0 +1,81 @@
+[+] Containers:
+ |- [+] Container: /Game/Dynamic/Levels/Lvl_MainMenu
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:095B35D048C03435AECF1997D1F9922D BaseClass:/Game/Item/ItemParent_Tarot.ItemParent_Tarot_C NativeClass:/Script/Engine.Actor Name:ItemParent_Tarot_C_UAID_1C697AB3BCB55C5B02_1697194791 Label:ItemParent_Tarot SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2406.325 Y=1834.061 Z=86.980), Max=(X=2433.394 Y=1861.502 Z=89.642) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:266C26DB484A1714B9C61081B84D4A9E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_1C697AB3BCB5665B02_1518428545 Label:Sliding_Doors SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1814.430 Y=1500.537 Z=0.943), Max=(X=2239.257 Y=1514.446 Z=231.989) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4133702C4DFC6457881EEBBC5F008278 BaseClass:/Game/Item/ItemParent_Tarot2.ItemParent_Tarot2_C NativeClass:/Script/Engine.Actor Name:ItemParent_Tarot2_C_UAID_D843AE120B5F785B02_1442469718 Label:ItemParent_Tarot3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2389.180 Y=1802.262 Z=87.000), Max=(X=2410.060 Y=1824.267 Z=91.554) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:553295DF41457C64AEC936B9608B56FB BaseClass:/Game/Item/ItemParent_Tarot2.ItemParent_Tarot2_C NativeClass:/Script/Engine.Actor Name:ItemParent_Tarot2_C_UAID_1C697AB3BCB5665B02_1803226548 Label:ItemParent_Tarot2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2408.960 Y=1815.046 Z=87.000), Max=(X=2430.282 Y=1831.483 Z=91.554) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8DB619594D43754E3BF4DDBDD09C624E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_1C697AB3BCB5655B02_2078038367 Label:Chair SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2550.273 Y=1767.904 Z=0.204), Max=(X=2646.791 Y=1873.479 Z=135.161) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:92E1C71648C0514DAFC507874846D15F BaseClass: NativeClass:/Script/Engine.DecalActor Name:DecalActor_UAID_D843AE120B5F6D5B02_1335501922 Label:MI_sdeovii SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2196.132 Y=1940.950 Z=-34.825), Max=(X=2603.868 Y=2319.050 Z=34.825) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B15AD50E4527B6E5973D758BDA1630C0 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:B362E8A34458445B35FDA48A305176CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D843AE120B5F785B02_1183621717 Label:Cube12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2347.413 Y=2947.057 Z=72.500), Max=(X=2472.587 Y=2972.943 Z=247.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BD9A19AC464BB903B4E56A98C24AE66B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D843AE120B5F785B02_1533977719 Label:SM_Ind_War_Storage_Pallet_Wood_Worn_13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2508.186 Y=1586.507 Z=-5.679), Max=(X=2669.945 Y=1668.877 Z=151.275) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D2E052F348CFEB147BB8E7BF08E1BCCF BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_D843AE120B5F6C5B02_1774465740 Label:PointLight15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1439.615 Y=1299.615 Z=-210.385), Max=(X=2400.385 Y=2260.385 Z=750.385) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EED1ABEA459AF6052F2E5498EB8CF349 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_C4C6E6A87C2DDF5A02_2044573783 Label:Werewolf SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1885.688 Y=2949.846 Z=-7.859), Max=(X=2131.574 Y=3078.166 Z=208.456) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cutscene FolderGuid:16E033AC4ACF9C8BC76306B4EAC4C95C
+ |   |   |- Guid:FD55F7394A4D8AB8D5695CB14A2A15A9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D843AE120B5F6E5B02_2022760102 Label:Chair2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2444.032 Y=1694.273 Z=0.204), Max=(X=2535.644 Y=1768.956 Z=135.161) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:095B35D048C03435AECF1997D1F9922D BaseClass:/Game/Item/ItemParent_Tarot.ItemParent_Tarot_C NativeClass:/Script/Engine.Actor Name:ItemParent_Tarot_C_UAID_1C697AB3BCB55C5B02_1697194791 Label:ItemParent_Tarot SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2406.325 Y=1834.061 Z=86.980), Max=(X=2433.394 Y=1861.502 Z=89.642) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:266C26DB484A1714B9C61081B84D4A9E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_1C697AB3BCB5665B02_1518428545 Label:Sliding_Doors SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1814.430 Y=1500.537 Z=0.943), Max=(X=2239.257 Y=1514.446 Z=231.989) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:4133702C4DFC6457881EEBBC5F008278 BaseClass:/Game/Item/ItemParent_Tarot2.ItemParent_Tarot2_C NativeClass:/Script/Engine.Actor Name:ItemParent_Tarot2_C_UAID_D843AE120B5F785B02_1442469718 Label:ItemParent_Tarot3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2389.180 Y=1802.262 Z=87.000), Max=(X=2410.060 Y=1824.267 Z=91.554) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:553295DF41457C64AEC936B9608B56FB BaseClass:/Game/Item/ItemParent_Tarot2.ItemParent_Tarot2_C NativeClass:/Script/Engine.Actor Name:ItemParent_Tarot2_C_UAID_1C697AB3BCB5665B02_1803226548 Label:ItemParent_Tarot2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2408.960 Y=1815.046 Z=87.000), Max=(X=2430.282 Y=1831.483 Z=91.554) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:8DB619594D43754E3BF4DDBDD09C624E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_1C697AB3BCB5655B02_2078038367 Label:Chair SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2550.273 Y=1767.904 Z=0.204), Max=(X=2646.791 Y=1873.479 Z=135.161) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:92E1C71648C0514DAFC507874846D15F BaseClass: NativeClass:/Script/Engine.DecalActor Name:DecalActor_UAID_D843AE120B5F6D5B02_1335501922 Label:MI_sdeovii SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2196.132 Y=1940.950 Z=-34.825), Max=(X=2603.868 Y=2319.050 Z=34.825) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:B15AD50E4527B6E5973D758BDA1630C0 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:B362E8A34458445B35FDA48A305176CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D843AE120B5F785B02_1183621717 Label:Cube12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2347.413 Y=2947.057 Z=72.500), Max=(X=2472.587 Y=2972.943 Z=247.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:BD9A19AC464BB903B4E56A98C24AE66B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D843AE120B5F785B02_1533977719 Label:SM_Ind_War_Storage_Pallet_Wood_Worn_13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2508.186 Y=1586.507 Z=-5.679), Max=(X=2669.945 Y=1668.877 Z=151.275) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:D2E052F348CFEB147BB8E7BF08E1BCCF BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_D843AE120B5F6C5B02_1774465740 Label:PointLight15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1439.615 Y=1299.615 Z=-210.385), Max=(X=2400.385 Y=2260.385 Z=750.385) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:EED1ABEA459AF6052F2E5498EB8CF349 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_C4C6E6A87C2DDF5A02_2044573783 Label:Werewolf SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1885.688 Y=2949.846 Z=-7.859), Max=(X=2131.574 Y=3078.166 Z=208.456) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cutscene FolderGuid:16E033AC4ACF9C8BC76306B4EAC4C95C
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:FD55F7394A4D8AB8D5695CB14A2A15A9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D843AE120B5F6E5B02_2022760102 Label:Chair2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2444.032 Y=1694.273 Z=0.204), Max=(X=2535.644 Y=1768.956 Z=135.161) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Dynamic/Levels/Lvl_MainMenu
+----------------------------------------------------------------------------------------------------------------
+Lvl_MainMenu - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Lvl_MainMenu Persistent Level
+ |- Always loaded Actor Count: 12 
+ |- Actor Path: /Game/Dynamic/Levels/Lvl_MainMenu.Lvl_MainMenu:PersistentLevel.DecalActor_UAID_D843AE120B5F6D5B02_1335501922
+ |- Actor Package: /Game/__ExternalActors__/Dynamic/Levels/Lvl_MainMenu/8/WN/U46VG4DDT0FGYAJN0HX3JB
+ |- Actor Path: /Game/Dynamic/Levels/Lvl_MainMenu.Lvl_MainMenu:PersistentLevel.ItemParent_Tarot2_C_UAID_1C697AB3BCB5665B02_1803226548
+ |- Actor Package: /Game/__ExternalActors__/Dynamic/Levels/Lvl_MainMenu/C/0J/7ZI6EGUVI9EZ2GA1JGS3O5
+ |- Actor Path: /Game/Dynamic/Levels/Lvl_MainMenu.Lvl_MainMenu:PersistentLevel.ItemParent_Tarot2_C_UAID_D843AE120B5F785B02_1442469718
+ |- Actor Package: /Game/__ExternalActors__/Dynamic/Levels/Lvl_MainMenu/4/VG/EOFGMWHEWLPSEOQBYBCXQ8
+ |- Actor Path: /Game/Dynamic/Levels/Lvl_MainMenu.Lvl_MainMenu:PersistentLevel.ItemParent_Tarot_C_UAID_1C697AB3BCB55C5B02_1697194791
+ |- Actor Package: /Game/__ExternalActors__/Dynamic/Levels/Lvl_MainMenu/A/YV/L8ITUD0C64U0DYSC2WTWWE
+ |- Actor Path: /Game/Dynamic/Levels/Lvl_MainMenu.Lvl_MainMenu:PersistentLevel.PointLight_UAID_D843AE120B5F6C5B02_1774465740
+ |- Actor Package: /Game/__ExternalActors__/Dynamic/Levels/Lvl_MainMenu/8/W7/PVFVEG3FF3D4SEBPR2ZJ9S
+ |- Actor Path: /Game/Dynamic/Levels/Lvl_MainMenu.Lvl_MainMenu:PersistentLevel.SkeletalMeshActor_UAID_C4C6E6A87C2DDF5A02_2044573783
+ |- Actor Package: /Game/__ExternalActors__/Dynamic/Levels/Lvl_MainMenu/3/36/GQAKDW0CBWEAMPQZ7Q8TRF
+ |- Actor Path: /Game/Dynamic/Levels/Lvl_MainMenu.Lvl_MainMenu:PersistentLevel.StaticMeshActor_UAID_1C697AB3BCB5655B02_2078038367
+ |- Actor Package: /Game/__ExternalActors__/Dynamic/Levels/Lvl_MainMenu/7/7T/7W3KURD2OKF5TIHHO4A73G
+ |- Actor Path: /Game/Dynamic/Levels/Lvl_MainMenu.Lvl_MainMenu:PersistentLevel.StaticMeshActor_UAID_1C697AB3BCB5665B02_1518428545
+ |- Actor Package: /Game/__ExternalActors__/Dynamic/Levels/Lvl_MainMenu/3/8S/0S4V3MOKQRK0FKHNIVLHDG
+ |- Actor Path: /Game/Dynamic/Levels/Lvl_MainMenu.Lvl_MainMenu:PersistentLevel.StaticMeshActor_UAID_D843AE120B5F6E5B02_2022760102
+ |- Actor Package: /Game/__ExternalActors__/Dynamic/Levels/Lvl_MainMenu/D/PU/R4F9SC70VUQXRCB36EIBAI
+ |- Actor Path: /Game/Dynamic/Levels/Lvl_MainMenu.Lvl_MainMenu:PersistentLevel.StaticMeshActor_UAID_D843AE120B5F785B02_1183621717
+ |- Actor Package: /Game/__ExternalActors__/Dynamic/Levels/Lvl_MainMenu/5/LK/UDFUOXW1SNWHHZHWDFXU0V
+ |- Actor Path: /Game/Dynamic/Levels/Lvl_MainMenu.Lvl_MainMenu:PersistentLevel.StaticMeshActor_UAID_D843AE120B5F785B02_1533977719
+ |- Actor Package: /Game/__ExternalActors__/Dynamic/Levels/Lvl_MainMenu/1/Z4/ZN0DM85RFY0WUFGNIKW9YO
+ |- Actor Path: /Game/Dynamic/Levels/Lvl_MainMenu.Lvl_MainMenu:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Dynamic/Levels/Lvl_MainMenu/E/IJ/NXFG5CNPJRAAFYT96S9YK2
+
+----------------------------------------------------------------------------------------------------------------
+Lvl_MainMenu - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
