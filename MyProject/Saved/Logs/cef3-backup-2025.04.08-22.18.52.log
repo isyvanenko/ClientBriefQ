@@ -1,0 +1,4 @@
+[0407/211322.267:ERROR:os_crypt_win.cc(93)] Failed to decrypt: 该项不适于在指定状态下使用。 (0x8009000B)
+[0407/211322.871:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0407/211323.094:WARNING:storage_block-inl.h(146)] Failed data load.
+[0407/211522.531:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
